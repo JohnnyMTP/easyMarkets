@@ -39,6 +39,8 @@ The right-hand side (Y-axis) displays price levels, while the bottom (X-axis) sh
 
 ![Getting Started: Choosing a Chart Type](https://github.com/user-attachments/assets/2e6f33f8-f44c-4287-acc2-d36fcaa77f48)
 
+---
+
 ## Chart Types Explained
 
 ### Bar Charts
@@ -95,6 +97,7 @@ Line charts connect closing prices across sessions, creating a simple visual rep
 
 ![Line Charts](https://github.com/user-attachments/assets/a5558865-7f76-4aee-8920-c28a57c24f67)
 
+---
 
 ## Key Features of Trading Charts
 
@@ -128,6 +131,8 @@ With the 'Compare' tool, traders can overlay multiple instruments on the same ch
 
 ![Comparing Instruments on One Chart](https://github.com/user-attachments/assets/4fe94119-8f37-40d1-a7a9-800d5f86dce5)
 
+---
+
 ## Chart Customisation Tools
 
 On the left-hand side of the chart, various tools allow full customisation:
@@ -143,6 +148,8 @@ On the left-hand side of the chart, various tools allow full customisation:
 - **Chart Patterns**: Advanced tools such as Elliott Waves, Cyclic Lines, and XABCD Patterns are available to support complex analysis.
 - **Measure Tool**: This allows measurement of price change, time elapsed, and bar count between two points.
 - **Magnet Mode**: This snaps trendlines and shapes to the nearest Open, High, Low, or Close, improving accuracy.
+
+---
 
 ## Additional Features
 
