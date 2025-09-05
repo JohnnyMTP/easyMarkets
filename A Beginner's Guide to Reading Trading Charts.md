@@ -1,4 +1,4 @@
-<!--meta >
+<!--meta
 title: A Beginner's Guide to Reading Trading Charts
 slug: beginner-guide-reading-trading-charts
 canonical_url: https://www.easymarkets.com/learn/beginner-guide-reading-trading-charts
