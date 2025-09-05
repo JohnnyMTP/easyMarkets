@@ -10,8 +10,8 @@ seo_keywords: Trading charts, Chart types, Technical indicators, easyMarkets pla
 "og_image": "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
   "images": [
     "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
-    "https://github.com/user-attachments/assets/acdd6273-11b1-4922-8d89-3f82f7e1b323"
-    "https://github.com/user-attachments/assets/5fc1e619-f78c-4933-a494-10f0620db9c7"
+    "https://github.com/user-attachments/assets/acdd6273-11b1-4922-8d89-3f82f7e1b323",
+    "https://github.com/user-attachments/assets/5fc1e619-f78c-4933-a494-10f0620db9c7",
     "https://github.com/user-attachments/assets/c3eabc34-cdd7-4c3b-8670-f07f828b7c81"
   ],
   "twitter_card": "easyMarkets"
