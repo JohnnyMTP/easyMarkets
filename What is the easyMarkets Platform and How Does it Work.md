@@ -113,8 +113,8 @@ Whether new to trading or refining a long-term strategy, users benefit from:
 
 Looking to learn more about the platform or how to get started? Explore these resources:
 
-- [How to Use Trading Charts on easyMarkets](#)  
-- [Forex Trading for Beginners](#)  
+- [How to Use Trading Charts on easyMarkets](https://github.com/JohnnyMTP/easyMarkets/blob/main/A%20Beginner's%20Guide%20to%20Reading%20Trading%20Charts.md)  
+- [Forex Trading for Beginners]()  
 - [What Are the Most Popular Forex Pairs to Trade?](#)  
 - [What is My easyMarkets and How Does it Work?](#)  
 
