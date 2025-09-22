@@ -14,7 +14,6 @@ primary-keyword: Trading charts
 
 meta_description: An essential beginner's guide to forex trading: how it works, what to know before starting, trading tools, risk management, and how to choose the right broker.
 
-keywords: Trading charts, Chart types, Technical indicators, easyMarkets platform, Price analysis
 
 "og_image": "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
 
