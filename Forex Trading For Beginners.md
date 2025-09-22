@@ -231,10 +231,8 @@ Forex trading offers global reach, flexibility, and high liquidity. With the rig
 
 If you're just getting started or want to dive deeper into forex and the tools available on easyMarkets, check out these beginner-friendly guides:
 
--   What is the easyMarkets Platform?
+-   [What is the easyMarkets Platform?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
 
 -   [A Beginner’s Guide to Reading Trading Charts](https://github.com/JohnnyMTP/easyMarkets/blob/main/A%20Beginner's%20Guide%20to%20Reading%20Trading%20Charts.md)
 
 -   [What Are the Most Popular Forex Pairs to Trade?](https://github.com/JohnnyMTP/easyMarkets/blob/main/Top%20Forex%20Pairs%20to%20Trade.md)
-
--   [What is My easyMarkets and How Does it Work?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
