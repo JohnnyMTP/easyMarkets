@@ -171,5 +171,5 @@ If you're just getting started or want to explore more features, check out these
 
 - [What Is the easyMarkets Platform?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
 - [Forex Trading for Beginners](https://github.com/JohnnyMTP/easyMarkets/blob/main/Forex%20Trading%20For%20Beginners.md)
-- What Are the Most Popular Forex Pairs to Trade?
+- [What Are the Most Popular Forex Pairs to Trade?](https://github.com/JohnnyMTP/easyMarkets/blob/main/Top%20Forex%20Pairs%20to%20Trade.md)
 - [What is My easyMarkets and How Does it Work?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
