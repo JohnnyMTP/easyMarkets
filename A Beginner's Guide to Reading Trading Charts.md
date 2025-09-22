@@ -170,6 +170,6 @@ Trading charts are essential for turning raw market data into actionable insight
 If you're just getting started or want to explore more features, check out these handy guides:
 
 - [What Is the easyMarkets Platform?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
-- Forex Trading for Beginners
+- [Forex Trading for Beginners](https://github.com/JohnnyMTP/easyMarkets/blob/main/Forex%20Trading%20For%20Beginners.md)
 - What Are the Most Popular Forex Pairs to Trade?
-- What is My easyMarkets and How Does it Work?
+- [What is My easyMarkets and How Does it Work?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
