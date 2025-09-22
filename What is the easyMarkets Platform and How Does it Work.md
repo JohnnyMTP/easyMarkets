@@ -38,7 +38,7 @@ This platform is suited to both new and experienced traders looking for a simpli
 
 ## Key Features of the easyMarkets Platform
 
-![Key Features of the easyMarkets Platform](https://github.com/user-attachments/assets/aee62149-85eb-4810-bd45-802f5e4fb6cc)
+![Image](https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c)
 
 ### Market Explorer  
 The **Market Explorer** is your control tower for asset discovery.  
@@ -104,7 +104,7 @@ While each platform offers unique strengths, the easyMarkets proprietary platfor
 
 ## Ready to Start Trading?
 
-![The easyMarkets platform is built to support your success](https://github.com/user-attachments/assets/651d3307-8ae9-4d61-957b-55e7039ecae1)
+![The easyMarkets platform is built to support your success](https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c)
 
 The easyMarkets platform is built to support your success with features that remove guesswork and streamline your workflow.  
 Whether new to trading or refining a long-term strategy, users benefit from:  
