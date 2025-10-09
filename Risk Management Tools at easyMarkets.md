@@ -13,9 +13,6 @@ twitter_card: easyMarkets
 
 # Risk Management Tools at easyMarkets
 
-![Risk Management Tools at easyMarkets](https://github.com/user-attachments/assets/f52e8de4-5cd3-4766-bda0-360406a8fb6b)
-
-
 Risk management is one of the most critical elements of successful trading. It’s what separates traders with long-term consistency from those who experience occasional wins but fail to protect their capital over time.
 
 Strong risk management means knowing how much to risk, where to place stop losses, and how to size trades effectively. But beyond personal strategy, access to built-in protections can make a real difference, especially in volatile markets. That’s where a broker like **easyMarkets** offers a unique edge.
@@ -49,6 +46,8 @@ These include:
 - **Guaranteed Stop Loss with No Slippage*** (exclusive to easyMarkets platforms, and activated with a wider spread)  
 - **Negative Balance Protection**  
 - **Tight Fixed Spreads**
+
+![Risk Management Tools at easyMarkets](https://github.com/user-attachments/assets/f52e8de4-5cd3-4766-bda0-360406a8fb6b)
 
 Here’s a closer look at how these tools work in practice:
 
