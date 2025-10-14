@@ -113,7 +113,7 @@ A resilient mindset allows traders to stay calm under pressure, trust their proc
 - [What Is the easyMarkets Platform?](https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20is%20the%20easyMarkets%20Platform%20and%20How%20Does%20it%20Work.md)
 - [Best Risk Management Tools](https://github.com/JohnnyMTP/easyMarkets/blob/main/Risk%20Management%20Tools%20at%20easyMarkets.md)
 - [Top Trading Strategies for Beginners](#)
-- [Day, Swing, and Position Trading: Which Style Suits You Best?]((https://github.com/JohnnyMTP/easyMarkets/blob/main/Day%2C%20Swing%2C%E2%80%AFand%E2%80%AFPosition%20Trading%20with%20easyMarkets%20.md)) 
+- [Day, Swing, and Position Trading: Which Style Suits You Best?](https://github.com/JohnnyMTP/easyMarkets/blob/main/Day%2C%20Swing%2C%E2%80%AFand%E2%80%AFPosition%20Trading%20with%20easyMarkets%20.md) 
 
 ---
 
