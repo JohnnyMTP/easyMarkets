@@ -15,6 +15,8 @@ seo_keywords: what is leverage,how to use leverage,forex leverage explained,trad
 
 # How to Use Leverage in Trading: A Guide with easyMarkets
 
+![What is Leverage](https://github.com/user-attachments/assets/e68b65d7-3685-4939-bb6c-c7e5b7b1c6d9)
+
 In forex and CFD trading, price movements are typically small, especially for major currency pairs like EUR/USD, which may move just 100 to 150 pips a day. To make the most of these modest shifts, traders often turn to leverage, a tool that magnifies both potential gains and losses.
 
 This guide breaks down how leverage works, why it's used, and how it can be managed responsibly with tools available through regulated brokers like easyMarkets.
