@@ -26,7 +26,7 @@ This guide breaks down how leverage works, why it's used, and how it can be mana
 ## What is leverage?
 
 
-[![video](https://github.com/user-attachments/assets/df425067-d522-4935-97c8-54000558f86b)](https://www.easymarkets.com/eu/learn-centre/discover-trading/what-is-leverage/)
+[![video](https://github.com/user-attachments/assets/df425067-d522-4935-97c8-54000558f86b)](https://vimeo.com/837812113)
 
 Leverage allows traders to control a larger position than the capital they commit. It is expressed as a ratio (e.g., 1:50, 1:100), indicating how much more exposure a trader has compared to their own invested margin (the amount of capital the trader must commit to open a leveraged position).
 
