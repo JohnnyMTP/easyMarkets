@@ -1,7 +1,7 @@
 <!--meta
 title: Risk Management Tools at easyMarkets
 slug: risk-management-tools-at-easymarkets
-canonical_url:  https://www.easymarkets.com/risk-management-tools
+canonical_url:  https://www.easy-markets.com/risk-management-tools
 date: 2025-10-08
 keywords: [risk management, forex trading, stop loss, easyMarkets, guaranteed stop loss, fixed spreads, negative balance protection]
 primary-keyword: risk management tools
@@ -111,7 +111,7 @@ Many brokers use variable spreads that widen during volatility, increasing costs
 
 For traders who prefer flexibility, **variable spreads are available on MT5**.
 
-You can view all spreads, pip values, and contract sizes in the [easyMarkets Pricing Table](https://www.easymarkets.com/en/trading/spreads-and-margins/).
+You can view all spreads, pip values, and contract sizes in the [easyMarkets Pricing Table](https://www.easy-markets.com/en/trading/spreads-and-margins/).
 
 ---
 
@@ -137,7 +137,7 @@ Together, these features empower traders to stay in control, no matter what the 
 Looking to strengthen your trading strategy? Explore more resources below:
 
 - [Forex Trading for Beginners](https://github.com/JohnnyMTP/easyMarkets/blob/main/Forex%20Trading%20For%20Beginners.md)  
-- [What Is Guaranteed Stop Loss with No Slippage?](https://www.easymarkets.com/risk-tools/guaranteed-stop-loss)  
-- [How to Trade with Fixed Spreads](https://www.easymarkets.com/platform/fixed-spreads)  
-- [Understanding Leverage and Margin](https://www.easymarkets.com/learn-forex/leverage)  
-- [easyMarkets Academy: Free Trading Courses](https://www.easymarkets.com/academy)
+- [What Is Guaranteed Stop Loss with No Slippage?](https://www.easy-markets.com/risk-tools/guaranteed-stop-loss)  
+- [How to Trade with Fixed Spreads](https://www.easy-markets.com/platform/fixed-spreads)  
+- [Understanding Leverage and Margin](https://www.easy-markets.com/learn-forex/leverage)  
+- [easyMarkets Academy: Free Trading Courses](https://www.easy-markets.com/academy)
