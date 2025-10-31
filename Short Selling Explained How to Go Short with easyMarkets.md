@@ -1,7 +1,7 @@
 <!--meta
 title: HShort Selling Explained: How to Go Short with easyMarkets
 slug: short-selling-explained
-canonical_url: https://www.easymarkets.com/eu/learn-centre/discover-trading/what-is-short-selling/
+canonical_url: https://www.easy-markets.com/eu/learn-centre/discover-trading/what-is-short-selling/
 date: 2025-10-17
 keywords: [short selling, CFD shorting, how to short, forex short sell, easyMarkets short]
 primary-keyword: Short Selling
@@ -85,7 +85,7 @@ These examples illustrate how profits and losses in short selling are symmetric 
 
 To open a short position on easyMarkets:
 
-1. **Log in:** Access your [easyMarkets](https://easymarkets.com/) account via web or mobile.  
+1. **Log in:** Access your [easyMarkets](https://easy-markets.com/) account via web or mobile.  
 2. **Choose instrument:** Select a tradeable asset from 275+ options.  
 3. **Click ‘SELL’:** Initiate a short (sell) position.  
 4. **Set stop-loss / take-profit orders:** Protect downside and lock profits.  
@@ -94,7 +94,7 @@ To open a short position on easyMarkets:
 The platform calculates the required margin and risk based on position size. If the market moves unfavourably to the stop level, the position will close automatically to prevent excessive losses.
 
 > **Important:** easyMarkets does not charge a separate commission on short trades. Fees include the spread and, for positions held overnight, swap rates.  
-> **Risk management tools** such as [Negative Balance Protection](https://www.easymarkets.com/eu/trading-conditions/negative-balance-protection/), [Guaranteed Stop Loss with No Slippage\*](https://www.easymarkets.com/eu/trading-conditions/guaranteed-stop-loss/), and [fixed spreads](https://www.easymarkets.com/eu/trading-conditions/fixed-spreads/) help mitigate potential exposures.
+> **Risk management tools** such as [Negative Balance Protection](https://www.easy-markets.com/eu/trading-conditions/negative-balance-protection/), [Guaranteed Stop Loss with No Slippage\*](https://www.easy-markets.com/eu/trading-conditions/guaranteed-stop-loss/), and [fixed spreads](https://www.easy-markets.com/eu/trading-conditions/fixed-spreads/) help mitigate potential exposures.
 
 ![short Selling Explained: How to Go Short with easyMarkets](https://github.com/user-attachments/assets/f52e8de4-5cd3-4766-bda0-360406a8fb6b)
 
