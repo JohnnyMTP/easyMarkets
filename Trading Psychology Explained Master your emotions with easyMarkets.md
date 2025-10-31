@@ -1,7 +1,7 @@
 <!--meta
 title: Trading Psychology Explained: Master your emotions with easyMarkets
 slug: trading-psychology-explained
-canonical_url: https://www.easymarkets.com/eu/learn-centre/mastering-self/learn-trading-psychology/
+canonical_url: https://www.easy-markets.com/eu/learn-centre/mastering-self/learn-trading-psychology/
 keywords: [trading psychology, emotional discipline, trading mindset, forex psychology, trading performance, easyMarkets]
 primary-keyword: trading psychology
 meta_description: Discover how trading psychology influences performance, with data-driven insights into emotion, mindset, and discipline. Learn how easyMarkets helps traders manage risk and maintain control.
@@ -94,9 +94,9 @@ Developing a strong trading mindset takes time, practice, and self-awareness. He
 
 A strong trading psychology works best when paired with effective tools. Trusted brokers like easyMarkets offer features that support psychological resilience: 
 
-- [**Guaranteed Stop Loss with No Slippage***](https://www.easymarkets.com/eu/trading-conditions/guaranteed-stop-loss/) – Remove volatility anxiety and cap your losses exactly where you set them.  
-- [**Negative Balance Protection**](https://www.easymarkets.com/eu/trading-conditions/negative-balance-protection/) – Prevents your account from going below zero.  
-- [**Tight Fixed Spreads**](https://www.easymarkets.com/eu/trading-conditions/fixed-spreads/) – Keeps costs predictable and transparent.
+- [**Guaranteed Stop Loss with No Slippage***](https://www.easy-markets.com/eu/trading-conditions/guaranteed-stop-loss/) – Remove volatility anxiety and cap your losses exactly where you set them.  
+- [**Negative Balance Protection**](https://www.easy-markets.com/eu/trading-conditions/negative-balance-protection/) – Prevents your account from going below zero.  
+- [**Tight Fixed Spreads**](https://www.easy-markets.com/eu/trading-conditions/fixed-spreads/) – Keeps costs predictable and transparent.
 
 These features reinforce discipline and reduce the emotional impact of unexpected events. 
 
