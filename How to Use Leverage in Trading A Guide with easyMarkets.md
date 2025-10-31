@@ -1,7 +1,7 @@
 <!--meta
 title: How to Use Leverage in Trading: A Guide with easyMarkets 
 slug: how-to-use-leverage-in-trading-a-guide-with- easymarkets
-canonical_url: https://www.easymarkets.com/eu/learn-centre/discover-trading/what-is-leverage/
+canonical_url: https://www.easy-markets.com/eu/learn-centre/discover-trading/what-is-leverage/
 date: 2025-10-17
 keywords: [what is leverage,how to use leverage,forex leverage explained,trading with leverage,leverage on easyMarkets]
 primary-keyword: what is leverage
@@ -57,7 +57,7 @@ Proper risk management is crucial when trading with leverage.
 
 easyMarkets offers flexible leverage across a wide range of instruments on its proprietary web platform, mobile app, and other supported platforms. Leverage limits vary depending on the trader’s region, regulation, and the specific asset class.
 
-What sets easyMarkets apart is the combination of **leverage** with [integrated *risk-management tools*](https://www.easymarkets.com/eu/trading-conditions/), including:
+What sets easyMarkets apart is the combination of **leverage** with [integrated *risk-management tools*](https://www.easy-markets.com/eu/trading-conditions/), including:
 
 **Guaranteed Stop Loss with No Slippage**  
 Ensures that trades close at the exact stop level, regardless of volatility.
