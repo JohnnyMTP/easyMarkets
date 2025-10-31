@@ -1,7 +1,7 @@
 <!--meta
 title: A Beginner's Guide to Reading Trading Charts
 slug: beginner-guide-reading-trading-charts
-canonical_url: https://www.easymarkets.com/learn/beginner-guide-reading-trading-charts
+canonical_url: https://www.easy-markets.com/learn/beginner-guide-reading-trading-charts
 date: 2025-09-03
 keywords: [Trading charts, Chart types, Technical indicators, easyMarkets platform, Price analysis]
 primary-keyword: Trading charts
@@ -21,7 +21,7 @@ seo_keywords: Trading charts, Chart types, Technical indicators, easyMarkets pla
 
 ![Image](https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c)
 
-Trading charts are essential tools for analysing market behaviour. They show how prices move over time, helping traders identify trends, monitor volatility, and make informed decisions. On the [easyMarkets platform](https://www.easymarkets.com/eu/platforms/easymarkets/), a variety of chart types and built-in analysis tools support smarter trading across any timeframe.
+Trading charts are essential tools for analysing market behaviour. They show how prices move over time, helping traders identify trends, monitor volatility, and make informed decisions. On the [easyMarkets platform](https://www.easy-markets.com/eu/platforms/easymarkets/), a variety of chart types and built-in analysis tools support smarter trading across any timeframe.
 
 ---
 
