@@ -1,7 +1,7 @@
 <!--meta
 title: easyMarkets Complete Guide to Currency Codes
 slug: easymarkets-complete-guide-to-currency-codes
-canonical_url: https://www.easymarkets.com/eu/learn-centre/discover-trading/currency-acronyms-and-abbreviations/
+canonical_url: https://www.easy-markets.com/eu/learn-centre/discover-trading/currency-acronyms-and-abbreviations/
 date: 2025-10-17
 keywords: [currency abbreviations,currency acronyms,forex currency codes,ISO 4217 currency codes,currency codes for trading]
 primary-keyword: currency abbreviations
@@ -89,7 +89,7 @@ Here’s a selection of ISO 4217 codes covering major, minor, and exotic currenc
 | CAD  | Canadian Dollar             | Canada               |
 | CHF  | Swiss Franc                 | Switzerland          |
 
-Visit the [easyMarkets website](https://www.easymarkets.com/eu/trade/forex-spreads/) for more active global currencies and their spreads, leverage, and contract sizes.
+Visit the [easyMarkets website](https://www.easy-markets.com/eu/trade/forex-spreads/) for more active global currencies and their spreads, leverage, and contract sizes.
 
 ---
 
