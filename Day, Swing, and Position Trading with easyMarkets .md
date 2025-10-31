@@ -1,7 +1,7 @@
 <!--meta
 title: Day, Swing, and Position Trading with easyMarkets
 slug: trading-styles-guide
-canonical_url: https://www.easymarkets.com/eu/learn-centre/discover-trading/different-trading-types/
+canonical_url: https://www.easy-markets.com/eu/learn-centre/discover-trading/different-trading-types/
 keywords: [types of trading, day trading, swing trading, position trading, trading styles]
 primary-keyword: types of trading
 meta_description: Discover the key differences between day trading, swing trading, and position trading — and learn which trading style best suits your goals and risk tolerance with easyMarkets.
@@ -15,7 +15,7 @@ word_count: 950
 
 Every trader operates at their own pace. While some thrive in fast-paced environments, others prefer more strategic, long-term planning. Identifying the right trading style can help align one’s strategy with their goals, time availability, and risk appetite.
 
-From short-term opportunities to longer-term positioning, platforms like [easyMarkets](https://www.easymarkets.com/eu/) support a wide range of trading styles — offering tools and features suited to both active traders and those who prefer a slower, macro-based approach.
+From short-term opportunities to longer-term positioning, platforms like [easyMarkets](https://www.easy-markets.com/eu/) support a wide range of trading styles — offering tools and features suited to both active traders and those who prefer a slower, macro-based approach.
 
 This article explores the three most popular types of trading — **day trading**, **swing trading**, and **position trading** — and helps readers understand how to choose the approach that best fits different trading personalities.
 
@@ -24,7 +24,7 @@ This article explores the three most popular types of trading — **day trading*
 ## Day Trading  
 **Fast and focused**
 
-[Day trading](https://www.easymarkets.com/eu/learn-centre/discover-trading/what-is-a-day-trade/) involves opening and closing positions within the same day. Traders aim to capitalize on small price movements by making multiple trades during a session. This style eliminates overnight risk but demands constant attention.
+[Day trading](https://www.easy-markets.com/eu/learn-centre/discover-trading/what-is-a-day-trade/) involves opening and closing positions within the same day. Traders aim to capitalize on small price movements by making multiple trades during a session. This style eliminates overnight risk but demands constant attention.
 
 - **Timeframe:** Minutes to hours  
 - **Tools Used:** Technical analysis, economic calendar, real-time news feeds  
@@ -53,7 +53,7 @@ This style still requires regular market engagement and a firm grasp of technica
 Position trading takes a long-term approach, with trades held for weeks or even months. This style relies more on **fundamental analysis** and broader market trends than on short-term price patterns.
 
 - **Timeframe:** Weeks to months  
-- **Tools Used:** Macroeconomic indicators, [interest rates](https://www.easymarkets.com/eu/learn-centre/understanding-analysis/how-do-interest-rates-influence-the-economy/), geopolitical analysis  
+- **Tools Used:** Macroeconomic indicators, [interest rates](https://www.easy-markets.com/eu/learn-centre/understanding-analysis/how-do-interest-rates-influence-the-economy/), geopolitical analysis  
 - **Best for:** Patient traders focused on long-term capital growth  
 
 Position traders often use less leverage and may trade less frequently. It’s suitable for those who want a less time-intensive trading style.
@@ -64,13 +64,13 @@ Position traders often use less leverage and may trade less frequently. It’s s
 
 Finding the right trading style comes down to understanding your personal preferences, goals, and lifestyle. Here's a quick comparison of the key characteristics for each style:
 
-| Feature | **Day Trading** | **Swing Trading** | **Position Trading** |
-|----------|-----------------|------------------|----------------------|
-| **Time Commitment** | High (daily) | Medium (several days) | Low (long-term) |
-| **Holding Period** | Same-day | Days to weeks | Weeks to months |
-| **Focus Area** | Short-term charts | Technical patterns | Macroeconomics |
-| **Risk Level** | High | Moderate | Variable (depends on leverage) |
-| **Ideal for** | Traders who enjoy rapid decision-making and can dedicate full-time hours to the markets | Traders seeking a balance between structure and flexibility | Patient traders focused on long-term capital growth |
+| Feature             | **Day Trading**                                                                         | **Swing Trading**                                           | **Position Trading**                                |
+| ------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- |
+| **Time Commitment** | High (daily)                                                                            | Medium (several days)                                       | Low (long-term)                                     |
+| **Holding Period**  | Same-day                                                                                | Days to weeks                                               | Weeks to months                                     |
+| **Focus Area**      | Short-term charts                                                                       | Technical patterns                                          | Macroeconomics                                      |
+| **Risk Level**      | High                                                                                    | Moderate                                                    | Variable (depends on leverage)                      |
+| **Ideal for**       | Traders who enjoy rapid decision-making and can dedicate full-time hours to the markets | Traders seeking a balance between structure and flexibility | Patient traders focused on long-term capital growth |
 
 Before settling on a trading style, traders should reflect on how much time they can commit, their comfort level with risk, and their ability to stay disciplined under pressure.
 
