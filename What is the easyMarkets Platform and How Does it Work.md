@@ -1,7 +1,7 @@
 <!--meta
 title: What Is the easyMarkets Platform?
 slug: what-is-the-easymarkets-platform
-canonical_url: https://www.easymarkets.com/eu/learn-centre/get-to-know-easymarkets/the-easymarkets-platform-at-a-glance/
+canonical_url: https://www.easy-markets.com/eu/learn-centre/get-to-know-easymarkets/the-easymarkets-platform-at-a-glance/
 date: 2025-09-01
 keywords: [easyMarkets platform, trading ticket, market explorer, risk management tools, financial markets]
 primary-keyword: easyMarkets platform
@@ -98,7 +98,7 @@ In addition to their web and mobile platforms, easyMarkets also supports:
 
 While each platform offers unique strengths, the easyMarkets proprietary platform stands out for its **intuitive layout, built-in risk tools, and simplified user experience**, especially suitable for traders seeking transparency and control without unnecessary complexity.  
 
-👉 [Explore all platforms →](https://www.easymarkets.com/platforms/)
+👉 [Explore all platforms →](https://www.easy-markets.com/platforms/)
 
 ---
 
@@ -113,7 +113,7 @@ Whether new to trading or refining a long-term strategy, users benefit from:
 - **Risk protection**  
 - **Flexible execution**  
 
-👉 [Start Trading](https://www.easymarkets.com)
+👉 [Start Trading](https://www.easy-markets.com)
 
 ---
 
