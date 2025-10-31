@@ -1,7 +1,7 @@
 <!--meta
 title: Top Forex Pairs to Trade: What Every Trader Should Know
 slug: top-forex-pairs-to-trade
-canonical_url: https://www.easymarkets.com/education/forex/top-forex-pairs-to-trade 
+canonical_url: https://www.easy-markets.com/education/forex/top-forex-pairs-to-trade 
 date: 2025-09-05 
 primary-keyword: forex pairs
 meta_description: An essential beginner's guide to forex trading: how it works, what to know before starting, trading tools, risk management, and how to choose the right broker.
