@@ -7,7 +7,7 @@ keywords: [currency abbreviations,currency acronyms,forex currency codes,ISO 421
 primary-keyword: currency abbreviations
 meta_description: Learn the meaning of currency abbreviations and codes like USD, EUR, and JPY. This guide explains ISO 4217 and how they’re used in forex trading.
 seo_keywords: currency abbreviations,currency acronyms,forex currency codes,ISO 4217 currency codes,currency codes for trading
-"og_image": "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
+"og_image": "https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c",
   "images": [
     "https://github.com/user-attachments/assets/3c65251f-4d91-4dfe-b091-eda5aac2c500"],
   "twitter_card": "easyMarkets"
