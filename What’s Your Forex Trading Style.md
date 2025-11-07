@@ -63,7 +63,7 @@ Many short-term traders eventually transition to this approach after experiencin
 
 Regardless of style, risk management and mindset are what keep traders in the game. Every approach, whether fast or slow, depends on how well the trader can protect capital and manage emotion.
 
-Some timeless principles apply to all:
+Some timeless principles can apply to all:
 
 - Never risk more than 1–2% of total capital on a single trade.  
 - Set stop losses based on analysis, not emotion.  
