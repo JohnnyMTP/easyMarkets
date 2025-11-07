@@ -6,7 +6,7 @@ keywords: [types of trading, day trading, swing trading, position trading, tradi
 primary-keyword: types of trading
 meta_description: Discover the key differences between day trading, swing trading, and position trading — and learn which trading style best suits your goals and risk tolerance with easyMarkets.
 seo_keywords: types of trading, day trading, swing trading, position trading, trading styles
-og_image: https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab
+og_image: https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c
 twitter_card: easyMarkets
 word_count: 950
 -->
