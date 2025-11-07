@@ -1,5 +1,5 @@
 <!--meta
-title: HShort Selling Explained: How to Go Short with easyMarkets
+title: Short Selling Explained: How to Go Short with easyMarkets
 slug: short-selling-explained
 canonical_url: https://www.easy-markets.com/eu/learn-centre/discover-trading/what-is-short-selling/
 date: 2025-10-17
@@ -7,9 +7,9 @@ keywords: [short selling, CFD shorting, how to short, forex short sell, easyMark
 primary-keyword: Short Selling
 meta_description: Learn how short selling works in CFD trading, see example use cases, advantages, risks, and how to execute a short position with easyMarkets.
 seo_keywords: short selling, CFD shorting, how to short, forex short sell, easyMarkets short
-"og_image": "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
+"og_image": "https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c",
   "images": [
-    "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab"],
+    "https://github.com/user-attachments/assets/f52e8de4-5cd3-4766-bda0-360406a8fb6b"],
   "twitter_card": "easyMarkets"
 -->
 
