@@ -7,9 +7,9 @@ keywords: [what is leverage,how to use leverage,forex leverage explained,trading
 primary-keyword: what is leverage
 meta_description: Understand how leverage works in forex trading, how to calculate it, and how easyMarkets helps traders use leverage with built-in risk protections.
 seo_keywords: what is leverage,how to use leverage,forex leverage explained,trading with leverage,leverage on easyMarkets
-"og_image": "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
+"og_image": "https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c",
   "images": [
-    "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab"],
+    "https://github.com/user-attachments/assets/e68b65d7-3685-4939-bb6c-c7e5b7b1c6d9"],
   "twitter_card": "easyMarkets"
 -->
 
