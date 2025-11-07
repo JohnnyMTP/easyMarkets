@@ -6,7 +6,7 @@ keywords: [trading psychology, emotional discipline, trading mindset, forex psyc
 primary-keyword: trading psychology
 meta_description: Discover how trading psychology influences performance, with data-driven insights into emotion, mindset, and discipline. Learn how easyMarkets helps traders manage risk and maintain control.
 seo_keywords: trading psychology, emotional discipline, trading mindset, forex psychology, trading performance
-og_image: https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab
+og_image: https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c
 twitter_card: easyMarkets
 word_count: 1200
 -->
