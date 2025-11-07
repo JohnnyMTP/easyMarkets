@@ -7,9 +7,9 @@ keywords: [Trading charts, Chart types, Technical indicators, easyMarkets platfo
 primary-keyword: Trading charts
 meta_description: A beginner's guide on how to use trading charts on easyMarkets, from chart types to indicators, turning price data into smarter trading decisions.
 seo_keywords: Trading charts, Chart types, Technical indicators, easyMarkets platform, Price analysis
-"og_image": "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
+"og_image": "https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c",
   "images": [
-    "https://github.com/user-attachments/assets/ae3951fd-ed2c-4818-be29-a4434a553cab",
+    "https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c",
     "https://github.com/user-attachments/assets/acdd6273-11b1-4922-8d89-3f82f7e1b323",
     "https://github.com/user-attachments/assets/5fc1e619-f78c-4933-a494-10f0620db9c7",
     "https://github.com/user-attachments/assets/c3eabc34-cdd7-4c3b-8670-f07f828b7c81"
