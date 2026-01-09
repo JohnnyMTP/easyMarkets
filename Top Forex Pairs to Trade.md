@@ -8,14 +8,14 @@ meta_description: An essential beginner's guide to forex trading: how it works, 
 keywords: Explore the most popular forex pairs, what influences their prices, and how to trade them. Learn the difference between major, minor, and exotic pairs. 
 "og_image": "https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c",
 "images": [
-"https://github.com/user-attachments/assets/ce8a2820-4714-4db1-a770-bf1162be4081
+"https://github.com/user-attachments/assets/001402a6-7a99-443e-98eb-8b7ff4aa1030
 ],
 "twitter_card": "easyMarkets"
 -->
 
 # Top Forex Pairs to Trade: What Every Trader Should Know
 
-![Top Forex Pairs to Trade: What Every Trader Should Know](https://github.com/user-attachments/assets/ce8a2820-4714-4db1-a770-bf1162be4081)
+![Top Forex Pairs to Trade: What Every Trader Should Know](https://github.com/user-attachments/assets/001402a6-7a99-443e-98eb-8b7ff4aa1030)
 
 The forex market is one of the largest and most liquid financial markets globally, with over **$7.5 trillion traded daily**. Among the hundreds of currency pair combinations available, some pairs stand out for their liquidity, volatility, and popularity.  
 This article explores the basics of forex pairs, what affects their prices, which are the most traded, and how to start trading them.  
