@@ -50,20 +50,20 @@ The Head and Shoulders pattern is one of the most recognisable reversal formatio
 An **inverse Head and Shoulders** follows the same structure but appears at the end of a downtrend. 
 
 **Entry**
-![Entry](https://github.com/user-attachments/assets/66022587-3ce5-4bbd-95b7-1480f492f34d)
+![Entry](https://github.com/user-attachments/assets/66022587-3ce5-4bbd-95b7-1480f492f34d)<br><br>
 
 - **Standard pattern:** Traders often look to enter after price breaks below the neckline.
 - **Inverse pattern:** Entry is commonly considered when price breaks above the neckline.
 
 **Stop Loss**
-![Stop Loss](https://github.com/user-attachments/assets/0ed8fed3-dd56-4e8e-b3fb-0ce8cc766949)
+![Stop Loss](https://github.com/user-attachments/assets/0ed8fed3-dd56-4e8e-b3fb-0ce8cc766949)<br><br>
 
 - **Standard pattern:** Above the right shoulder
 - **Inverse pattern:** Below the right shoulder
 These levels help limit losses if the expected reversal fails.
 
 **Target**
-![Target](https://github.com/user-attachments/assets/1ab58257-a2c0-4ac1-972d-9ba4a6170d8c)
+![Target](https://github.com/user-attachments/assets/1ab58257-a2c0-4ac1-972d-9ba4a6170d8c)<br><br>
 
 A common method is to measure the vertical distance from the head to the neckline and project that distance in the direction of the breakout.
 
@@ -75,19 +75,19 @@ Double Top and Double Bottom patterns signal potential trend exhaustion.
 - A **Double Bottom** forms when price tests a low level twice and fails to break lower, hinting at growing buying interest.
   
 **Entry**
-![Entry](https://github.com/user-attachments/assets/91fc4ee1-aeaa-4f58-9a3f-216325f6f62c)
+![Entry](https://github.com/user-attachments/assets/91fc4ee1-aeaa-4f58-9a3f-216325f6f62c)<br><br>
 
 - **Double Top:** After price breaks below the low between the two peaks
 - **Double Bottom:** After price breaks above the high between the two troughs
 
 **Stop Loss**
-![Stop Loss](https://github.com/user-attachments/assets/5d30ff75-22b8-4c89-a5e6-28cd5c726b0a)
+![Stop Loss](https://github.com/user-attachments/assets/5d30ff75-22b8-4c89-a5e6-28cd5c726b0a)<br><br>
 
 - **Double Top:** Above the second peak
 - **Double Bottom:** Below the second trough
   
 **Target**
-![Target](https://github.com/user-attachments/assets/57b493a5-8062-4006-a2d4-4314929af90c)
+![Target](https://github.com/user-attachments/assets/57b493a5-8062-4006-a2d4-4314929af90c)<br><br>
 
 Many traders project the height of the pattern from the breakout point to estimate a potential target.
 
@@ -103,17 +103,17 @@ Common retracement levels include:
 - 61.8%
   
 **Entry**
-![Entry](https://github.com/user-attachments/assets/88a024b5-74a3-4370-90a8-4ba40911a3d5)
+![Entry](https://github.com/user-attachments/assets/88a024b5-74a3-4370-90a8-4ba40911a3d5)<br><br>
 
 Traders often watch for price action or candlestick confirmation near these levels, especially when they align with support or resistance.
 
 **Stop Loss**
-![Stop Loss](https://github.com/user-attachments/assets/fb17ce77-3716-46ee-b22b-823b1a731938)
+![Stop Loss](https://github.com/user-attachments/assets/fb17ce77-3716-46ee-b22b-823b1a731938)<br><br>
 
 Stops are frequently placed beyond the next Fibonacci level to allow room for normal market fluctuations.
 
 **Target**
-![Target](https://github.com/user-attachments/assets/1261bd8d-3d1c-4e1f-865d-f88507df8535)
+![Target](https://github.com/user-attachments/assets/1261bd8d-3d1c-4e1f-865d-f88507df8535)<br><br>
 
 Targets may be set using Fibonacci extension levels (such as 161.8% or 261.8%) or prior support and resistance zones.
 
@@ -126,17 +126,17 @@ Targets may be set using Fibonacci extension levels (such as 161.8% or 261.8%) o
 - **Bearish divergence:** Price makes a higher high, RSI makes a lower high
 
 **Entry**
-![Entry](https://github.com/user-attachments/assets/ac1f4a06-7e9a-4f6c-b1df-c27462bfc906)
+![Entry](https://github.com/user-attachments/assets/ac1f4a06-7e9a-4f6c-b1df-c27462bfc906)<br><br>
 
 Traders typically wait for additional confirmation, such as a break of structure or a candlestick signal, before entering.
 
 **Stop Loss**
-![Stop Loss](https://github.com/user-attachments/assets/9b1d8bf1-e84e-46b3-8fec-9b385a4486a3)
+![Stop Loss](https://github.com/user-attachments/assets/9b1d8bf1-e84e-46b3-8fec-9b385a4486a3)<br><br>
 
 Stops are usually placed beyond the most recent swing high or low.
 
 **Target**
-![Target](https://github.com/user-attachments/assets/7534ddb6-b76c-4848-bf73-f76ed1591490)
+![Target](https://github.com/user-attachments/assets/7534ddb6-b76c-4848-bf73-f76ed1591490)<br><br>
 
 Previous support or resistance areas are often used, or a predefined risk-to-reward ratio is applied.
 
@@ -148,19 +148,19 @@ Moving average crossovers are used to identify shifts in trend direction.
 - A **bearish crossover** occurs when the short-term average crosses below the longer-term average.
   
 **Entry**
-![Entry](https://github.com/user-attachments/assets/b0d30e5b-91e0-4ede-ae75-a3780610c97c)
+![Entry](https://github.com/user-attachments/assets/b0d30e5b-91e0-4ede-ae75-a3780610c97c)<br><br>
 
 - **Bullish:** After the short-term average crosses above the long-term average
 - **Bearish:** After the short-term average crosses below the long-term average
 
 **Stop Loss**
-![Stop Loss](https://github.com/user-attachments/assets/81d2107a-e6cb-4fff-8ecf-92fe75c6413f)
+![Stop Loss](https://github.com/user-attachments/assets/81d2107a-e6cb-4fff-8ecf-92fe75c6413f)<br><br>
 
 - **Buy trades:** Below the most recent swing low
 - **Sell trades:** Above the most recent swing high
 
 **Target**
-![Target](https://github.com/user-attachments/assets/80617c3e-787c-4f60-8eb2-dea07557b5a7)
+![Target](https://github.com/user-attachments/assets/80617c3e-787c-4f60-8eb2-dea07557b5a7)<br><br>
 
 Traders often use prior support and resistance levels or a fixed risk-to-reward ratio, such as 2:1.
 
