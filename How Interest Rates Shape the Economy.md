@@ -79,7 +79,9 @@ Lower returns may prompt investors to seek opportunities elsewhere, reducing dem
 
 Interest rate changes influence not only the broader economy but also the financial markets. Shifts in rates can affect stock valuations, bond prices, and currency movements. For traders using online platforms such as [easyMarkets](https://www.easy-markets.com), understanding interest rate decisions can provide important context when analysing market behaviour and managing risk. 
 
-### In Conclusion 
+---
+
+## In Conclusion 
 
 Interest rates are among the most powerful tools available to central banks. Whether they are raised to slow inflation or lowered to encourage growth, their effects are felt throughout the economy, from household finances to global capital flows. 
 
