@@ -59,7 +59,9 @@ Trading cash indices offers several potential advantages:
 -   No expiry: Unlike futures contracts, cash indices do not have an expiry date, allowing trades to be closed at any time.
 -   Risk control: Because indices represent multiple companies, they are generally less affected by the performance of a single business.
 
-    ![Cash Indices](https://github.com/user-attachments/assets/a47e200f-37dc-4b88-b4d2-bc8e9baea9c2)
+<div align="center">
+    <img alt="cash indices" src="https://github.com/user-attachments/assets/a47e200f-37dc-4b88-b4d2-bc8e9baea9c2">
+</div>
 
 [easyMarkets](https://www.easy-markets.com) provides access to a range of cash indices across its trading platforms.
 
