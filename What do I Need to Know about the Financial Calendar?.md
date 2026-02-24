@@ -52,7 +52,7 @@ Markets often form expectations ahead of these releases based on forecasts. Trad
 
 If the market expects 130,000 new jobs in an NFP release, an outcome that is significantly higher or lower than expected can cause a strong move in the USD, even if the result is still positive overall.
 
-![Financial Calendar](https://private-user-images.githubusercontent.com/230375313/553993350-f1cf9655-1694-47c4-bcb6-37d0b30729f9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE5MjE2ODQsIm5iZiI6MTc3MTkyMTM4NCwicGF0aCI6Ii8yMzAzNzUzMTMvNTUzOTkzMzUwLWYxY2Y5NjU1LTE2OTQtNDdjNC1iY2I2LTM3ZDBiMzA3MjlmOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyNFQwODIzMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOGFmNWNlYWIwYWY2MzFlMzhmNzNiNTExNzllN2VlMWFhNmI0MjJmY2I1OTEzNGNlYTMyMDNlYjc0YzhiMTUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e2YbLc3d3lHPsm0MQ2d_uHwuBHrAL5DkEgcpNJwwHyU)
+![25-years-at-your-service](https://github.com/user-attachments/assets/5d235bcf-73d7-4b14-a006-6984f7740fcc)
 
 ## Step 3: Using Calendar Data in Trading Decisions
 
@@ -89,7 +89,7 @@ Even when traders choose not to trade an event directly, knowing when it takes p
 
 ## Ready to Start Trading?
 
-![25 Years at Your Service](https://private-user-images.githubusercontent.com/230375313/553993349-d24a0705-0d7c-437c-8d02-db8f667767ca.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE5MjE2ODQsIm5iZiI6MTc3MTkyMTM4NCwicGF0aCI6Ii8yMzAzNzUzMTMvNTUzOTkzMzQ5LWQyNGEwNzA1LTBkN2MtNDM3Yy04ZDAyLWRiOGY2Njc3NjdjYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyNFQwODIzMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMWE5YmI2YWJjYzViYzYwZGEzNThiN2JmZjMyZjI1OTRlYzFlMzg0YTc2NzdlMjk1Y2U0MzA1YjQyNDQ4MWVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0N9vIk3mIH-sYA0bYJ2N2O-x4RfN3PzAq-YPMaXLPJM)
+![25-years-at-your-service](https://github.com/user-attachments/assets/4a91b2a2-7c2d-45b5-8777-2fc058a6180c)
 
 ## Additional resources:
 
