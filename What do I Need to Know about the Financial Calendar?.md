@@ -2,7 +2,7 @@
 title: What do I Need to Know about the Financial Calendar?
 slug: what-do-I-need-to-know-about-the-financial-calendar
 
-canonical_url:  https://github.com/JohnnyMTP/easyMarkets/blob/main/what-do-I-need-to-know-about-the-financial-calendar.md/
+canonical_url:  https://github.com/JohnnyMTP/easyMarkets/blob/main/What%20do%20I%20Need%20to%20Know%20about%20the%20Financial%20Calendar%3F.md
 
 date: 24/02/2026
 
