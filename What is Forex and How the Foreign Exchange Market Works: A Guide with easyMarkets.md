@@ -94,7 +94,7 @@ When trading forex, platforms such as [**easyMarkets**](https://www.easy-markets
 - Tight fixed spreads
 - Risk management tools
 
-![](https://github.com/user-attachments/assets/271dc5c3-e809-46f1-9514-8ad5c08e5a8e)
+![](https://github.com/user-attachments/assets/f52e8de4-5cd3-4766-bda0-360406a8fb6b)
 
 These features are designed to help traders manage positions in changing market conditions.
 
@@ -114,4 +114,4 @@ Additional resources:
 - [Day, Swing, and Position Trading with easyMarkets](https://github.com/JohnnyMTP/easyMarkets/blob/main/Day%2C%20Swing%2C%E2%80%AFand%E2%80%AFPosition%20Trading%20with%20easyMarkets%20.md)
 - [A Beginner's Guide to Reading Trading Charts](https://github.com/JohnnyMTP/easyMarkets/blob/main/A%20Beginner's%20Guide%20to%20Reading%20Trading%20Charts.md)
 
-![](https://github.com/user-attachments/assets/0ec47882-3c42-400e-9b8e-69c123421a3e)
+![](https://github.com/user-attachments/assets/7164c73c-aa18-441f-a31d-2b235ecd331c)
