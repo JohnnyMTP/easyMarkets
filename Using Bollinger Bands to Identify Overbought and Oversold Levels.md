@@ -37,17 +37,17 @@ Traders use them to help determine:
 
 Bollinger Bands® are made up of three main elements:
 
-• **Middle band:** A 20-period **Simple Moving Average (SMA)**
-• **Upper band:** Two standard deviations **above** the SMA
-• **Lower band:** Two standard deviations **below** the SMA
+-   **Middle band:** A 20-period **Simple Moving Average (SMA)**
+-   **Upper band:** Two standard deviations **above** the SMA
+-   **Lower band:** Two standard deviations **below** the SMA
 
 The distance between the bands expands and contracts in response to market volatility. This allows the indicator to adapt across different assets and timeframes.
 
 Traders also apply Bollinger Bands® to:
 
-• Identify **M-Tops**, which may signal bearish conditions, and **W-Bottoms**, which may signal bullish conditions
-• Evaluate the **strength of an existing trend**
-• Observe **dynamic support and resistance levels**
+-   Identify **M-Tops**, which may signal bearish conditions, and **W-Bottoms**, which may signal bullish conditions
+-   Evaluate the **strength of an existing trend**
+-   Observe **dynamic support and resistance levels**
 
 Although the default settings are commonly used, traders may adjust them to suit a specific asset or strategy. In most cases, only minimal adjustments are recommended to maintain consistency.
 
