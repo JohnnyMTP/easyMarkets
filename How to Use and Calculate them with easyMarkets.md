@@ -1,7 +1,7 @@
 <!--meta
 title: Pivot Points: How to Use and Calculate them with easyMarkets
 slug: pivot-points-how-to-use-and-calculate-them-with-easymarkets
-canonical_url:
+canonical_url: https://github.com/JohnnyMTP/easyMarkets/blob/main/How%20to%20Use%20and%20Calculate%20them%20with%20easyMarkets.md
 keywords: pivot point trading, how to calculate pivot points, support resistance levels, intraday trading tools, pivot point strategy, forex pivot points
 primary-keyword: Pivot Points
 description: Learn how to calculate and apply pivot points to identify support and resistance levels and improve trading decisions.
