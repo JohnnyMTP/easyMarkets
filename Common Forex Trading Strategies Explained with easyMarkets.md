@@ -1,4 +1,4 @@
-<!--meta
+<!--meta 
 title: Common Forex Trading Strategies Explained with easyMarkets 
 slug: common-forex-trading-strategies-explained-with-easymarkets
 date: 2026-03-24
