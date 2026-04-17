@@ -8,7 +8,7 @@ primary-keyword: TradingView indicators
 description: Explore the top [TradingView](https://www.easy-markets.com/eu/platforms/tradingview/) indicators for effective technical analysis. Understand how each tool works and how to apply them on the [easyMarkets](https://www.easy-markets.com/eu/) platform.
 --->
 
-![trading indicators](https://github.com/user-attachments/assets/308395d9-cb16-4d35-8b72-fa4f742c7d05)
+![trading indicators](https://github.com/user-attachments/assets/ceaed82e-54cc-4af7-a628-7c8dd1dca19e)
 
 # Introduction
 
@@ -167,7 +167,7 @@ When used together, they can form a more complete technical analysis toolkit to 
 
 If you are using TradingView through an [easyMarkets](https://www.easy-markets.com/eu/) account, you also gain access to additional features such as [Guaranteed Stop Loss with No Slippage\*](https://www.easy-markets.com/eu/trading-conditions/guaranteed-stop-loss/) and [negative balance protection](https://www.easy-markets.com/eu/trading-conditions/negative-balance-protection/), integrated into your trading experience.
 
-![easyMarkets x TradingView](https://github.com/user-attachments/assets/5975dc06-dc30-4d1c-a4a2-a7d4762070ad)
+![easyMarkets x TradingView](https://github.com/user-attachments/assets/b110bfa2-7d90-41f4-a02d-5abf51964a51)
 
 ---
 
@@ -204,7 +204,7 @@ Their reliability depends on your strategy, the assets traded, and the timeframe
 
 \*Guaranteed Stop Loss with no Slippage is only available on easyMarkets web & app trading platform. Activate with a wider spread for total risk control.
 
-![](https://github.com/user-attachments/assets/a0200cba-7a18-4389-bf96-9169f4c56f7f)
+![](https://github.com/user-attachments/assets/2b1403e0-55ec-4f83-a356-14deb68dce01)
 
 ### [Start Trading Today!](https://www.easy-markets.com/eu/)
 
@@ -215,4 +215,4 @@ Additional resources:
 - [Risk Management Tools at easyMarkets](https://github.com/JohnnyMTP/easyMarkets/blob/main/Risk%20Management%20Tools%20at%20easyMarkets.md)
 - [Using Bollinger Bands® to Identify Overbought and Oversold Levels](https://github.com/JohnnyMTP/easyMarkets/blob/main/Using%20Bollinger%20Bands%20to%20Identify%20Overbought%20and%20Oversold%20Levels.md)
 
-![](https://github.com/user-attachments/assets/8f185a6f-21a1-4dc0-97ff-b4ca110f73a3)
+![](https://github.com/user-attachments/assets/af24390b-df2c-403f-aed6-52e440b3c397)
