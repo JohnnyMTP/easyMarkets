@@ -30,7 +30,7 @@ The Moving Average is a widely used trend-following tool that smooths price data
 
 Traders often apply simple or exponential moving averages to identify support and resistance levels or to highlight potential reversal areas.
 
-![Moving Average](https://github.com/user-attachments/assets/9a641640-3b25-4be2-a98b-fc118871a3f0)
+![Moving Average](https://github.com/user-attachments/assets/40af41df-f5c6-4c3c-b742-954a0a959b5b)
 
 Find more information on the MA indicator on TradingView [here](https://www.tradingview.com/scripts/movingaverage/).
 
@@ -45,7 +45,7 @@ The RSI operates on a scale from 0 to 100:
 - Values above 70 suggest overbought conditions
 - Values below 30 suggest oversold conditions
 
-![Relative Strength Index](https://github.com/user-attachments/assets/c08b0cc1-679f-436b-827c-9a7928b4b045)
+![Relative Strength Index](https://github.com/user-attachments/assets/7f249a8e-a0a1-49db-9725-82eb186c3bd9)
 
 Traders use RSI to help identify potential entry and exit points and to support trend strength analysis.
 
@@ -59,7 +59,7 @@ It uses two moving averages to display both momentum and direction. When the MAC
 
 The MACD histogram adds further insight into the strength of a trend.
 
-![Moving Average Convergence Divergence (MACD)](https://github.com/user-attachments/assets/53f98a56-454f-47e3-ab2e-62f813312cdf)
+![Moving Average Convergence Divergence (MACD)](https://github.com/user-attachments/assets/b9bdea8e-a8c1-4792-a26d-3a920d0ff359)
 
 Find additional information on the MACD indicator on TradingView [here.](https://www.tradingview.com/scripts/macd/)
 
@@ -71,7 +71,7 @@ Wider bands indicate increased volatility, while narrower bands suggest consolid
 
 Traders use Bollinger Bands to help identify potential breakouts or reversals.
 
-![Bollinger Bands](https://github.com/user-attachments/assets/dcdb17b8-f45c-46e2-a6e1-2ecac1eea3b9)
+![Bollinger Bands](https://github.com/user-attachments/assets/0b1862f2-3ba1-4697-9d9e-4cfa6afed401)
 
 Find additional information on the Bollinger Bands indicator on TradingView [here.](https://www.tradingview.com/scripts/bollingerbands/)
 
@@ -81,7 +81,7 @@ Volume is used to confirm the strength behind price movements.
 
 Increases in volume often occur during breakouts or major reversals, making it useful for assessing whether a trend is continuing or coming to an end.
 
-![Volume](https://github.com/user-attachments/assets/c2191ada-0fae-4213-9271-57a6267a375d)
+![Volume](https://github.com/user-attachments/assets/76b5ba68-3821-4fe3-85e1-612e2aec02c6)
 
 Learn more about the Volume indicator [here.](https://www.tradingview.com/scripts/volume/)
 
@@ -91,7 +91,7 @@ This momentum indicator compares an asset's closing price to its recent price ra
 
 It helps identify overbought and oversold conditions. Crossovers between the %K and %D lines can signal potential entry or exit points.
 
-![Stochastic Oscillator](https://github.com/user-attachments/assets/aec325c0-166f-43a0-8b6c-a71f8dd87455)
+![Stochastic Oscillator](https://github.com/user-attachments/assets/ca4aca2a-8e65-4003-9b05-b1749c8b1bdd)
 
 Learn more about the Stochastic Oscillator on TradingView [here.](https://www.tradingview.com/scripts/stochastic/)
 
@@ -101,7 +101,7 @@ Fibonacci Retracement is a **support and resistance tool** that highlights poten
 
 It is based on the Fibonacci sequence, where each number is the sum of the two preceding numbers. This tool helps identify key price levels. These levels indicate areas where the marker might reverse its current trend, pull back, or stabilise.
 
-![Fibonacci Retracement](https://github.com/user-attachments/assets/825803fb-c60c-4977-b75b-2b05983f57d8)
+![Fibonacci Retracement](https://github.com/user-attachments/assets/ffc6948b-881c-42bf-94f9-c0340fe715f9)
 
 This tool offers precise, measurable levels that help traders fine-tune:
 
@@ -117,7 +117,7 @@ ATR measures market volatility rather than direction.
 
 It shows how much an asset typically moves within a given time period, helping traders determine appropriate stop-loss levels.
 
-![Average True Range (ATR)](https://github.com/user-attachments/assets/276d86d7-0338-455e-893b-1f51d952a024)
+![Average True Range (ATR)](https://github.com/user-attachments/assets/e93e7fe9-ef79-47b1-a3bf-ae98858e03da)
 
 Learn more about the ATR indicator on TradingView [here.](https://www.tradingview.com/support/solutions/43000501823-average-true-range-atr/)
 
@@ -129,7 +129,7 @@ These dots indicate direction, and when they switch position, it may signal a re
 
 It is commonly used to help set trailing stop-loss levels.
 
-![Parabolic SAR](https://github.com/user-attachments/assets/74726f79-77bd-4dae-8fae-6c8e6c7d0846)
+![Parabolic SAR](https://github.com/user-attachments/assets/dc5e6c6b-6ae3-41b8-95d5-4133dc00545d)
 
 Find additional information on the Parabolic SAR indicator on TradingView [here](https://www.tradingview.com/support/solutions/43000502597-parabolic-sar-sar/).
 
@@ -139,7 +139,7 @@ The Ichimoku Cloud is an all-in-one indicator that provides information on trend
 
 Although visually complex, it offers a comprehensive view of market structure and is often used by more experienced traders interested in deep market structure analysis.
 
-![Ichimoku Cloud](https://github.com/user-attachments/assets/b1197aaa-c4fc-4c69-96f1-e7a167b4ecc1)
+![Ichimoku Cloud](https://github.com/user-attachments/assets/a78a6eab-c046-4c5b-97d7-6ca08f76f645)
 
 Traders analyse how the different Ichimoku lines interact to identify the best moments to start or end trades.
 
