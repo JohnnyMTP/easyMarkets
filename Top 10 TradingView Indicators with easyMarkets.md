@@ -206,7 +206,7 @@ Their reliability depends on your strategy, the assets traded, and the timeframe
 
 ![](https://github.com/user-attachments/assets/a0200cba-7a18-4389-bf96-9169f4c56f7f)
 
-### (Start Trading Today!)[https://www.easy-markets.com/eu/]
+### [Start Trading Today!](https://www.easy-markets.com/eu/)
 
 Additional resources:
 
