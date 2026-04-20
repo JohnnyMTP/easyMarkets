@@ -191,8 +191,6 @@ With easyMarkets, you can:
 -   Use built-in tools designed to support risk management
 -   Trade across multiple platforms, such as [MT4](https://www.easy-markets.com/eu/platforms/mt4/), [MT5](https://www.easy-markets.com/eu/platforms/mt5/), and [TradingView](https://www.easy-markets.com/eu/platforms/tradingview/)
 
-![easyMarkets MT5](https://github.com/user-attachments/assets/27df0d9c-c463-4bd8-914b-4dd4488f44d4)
-
 ## Take the First Step
 
 If you are new to commodity trading, you can begin with a [demo account](https://www.easy-markets.com/eu/) to explore the markets in a risk-free setting.
