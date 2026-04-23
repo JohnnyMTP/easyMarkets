@@ -4,7 +4,7 @@ slug: what-is-Forex-and-how-the-foreign-exchange-market-works-a-guide-with-easyM
 date: 09/03/2026
 keywords: forex trading, foreign exchange market, how forex trading works, currency pairs, how to trade forex, major currency pairs, minor currency pairs, exotic currency pairs, spread in forex
 primary-keyword: What is Forex
-description: Learn what forex is, how the foreign exchange market works, what currency pairs represent, and the basic concepts behind forex trading.
+description: Learn what forex is, how the foreign exchange market works, what currency pairs represent, and the basic concepts behind forex trading. 
 -->
 
 # What is Forex and How the Foreign Exchange Market Works: A Guide with easyMarkets
