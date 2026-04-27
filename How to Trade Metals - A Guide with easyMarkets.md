@@ -232,7 +232,7 @@ Yes. Trading metals involves risk, especially when using leverage.
 
 ---
 
-### (Start Trading Today!)[https://www.easy-markets.com/trade/eur-usd]
+### [Start Trading Today!](https://www.easy-markets.com/trade/eur-usd)
 
 Additional resources:
 
