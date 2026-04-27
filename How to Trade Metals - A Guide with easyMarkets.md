@@ -186,7 +186,7 @@ With easyMarkets, you can:
 - Use built-in tools that support risk management
 - Trade via [MT4](https://www.easy-markets.com/eu/platforms/mt4/), [MT5](https://www.easy-markets.com/eu/platforms/mt5/), and [TradingView](https://www.easy-markets.com/eu/platforms/tradingview/)
 
-![TV](https://github.com/user-attachments/assets/5717e6ed-9a4a-480a-82bf-70653c5520df)
+![TV](https://github.com/user-attachments/assets/25bf8c43-7eb7-4101-85a5-40a0f9eb3648)
 
 ---
 
@@ -232,7 +232,7 @@ Yes. Trading metals involves risk, especially when using leverage.
 
 ---
 
-### Start Trading Today!
+### (Start Trading Today!)[https://www.easy-markets.com/trade/eur-usd]
 
 Additional resources:
 
